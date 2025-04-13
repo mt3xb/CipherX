@@ -179,7 +179,7 @@ def on_save_file():
 
 # GUI Setup
 root = tk.Tk()
-root.title("Encryption and Decryption Tool - User: w7ed")
+root.title("Encryption and Decryption Tool - User:M3")
 
 # Input Section
 frame_input = tk.Frame(root)
